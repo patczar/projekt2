@@ -1,3 +1,12 @@
 # konkretny katalog i jego zawartość:
 /output/
 
+# pliki i katalogi o podanej nazwie,
+# niezależnie od położenia (ścieżka względna)
+ignorowany.xyz
+__pychache__/
+
+# ignorowanie plików pasujących do wzorca
+*.class
+*.o
+*.pyc
