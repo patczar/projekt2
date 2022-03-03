@@ -2,6 +2,6 @@ poniedziałek
 wtorek
 środa
 czwartek
-piątek
+piątek, weekendu początek
 sobota
 niedziela
